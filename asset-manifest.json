@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/GameTaiXiu/static/css/main.150d0b26.chunk.css",
+    "main.js": "/GameTaiXiu/static/js/main.40c6abca.chunk.js",
+    "main.js.map": "/GameTaiXiu/static/js/main.40c6abca.chunk.js.map",
+    "runtime-main.js": "/GameTaiXiu/static/js/runtime-main.809afff7.js",
+    "runtime-main.js.map": "/GameTaiXiu/static/js/runtime-main.809afff7.js.map",
+    "static/js/2.0773cc39.chunk.js": "/GameTaiXiu/static/js/2.0773cc39.chunk.js",
+    "static/js/2.0773cc39.chunk.js.map": "/GameTaiXiu/static/js/2.0773cc39.chunk.js.map",
+    "static/js/3.eb1b3180.chunk.js": "/GameTaiXiu/static/js/3.eb1b3180.chunk.js",
+    "static/js/3.eb1b3180.chunk.js.map": "/GameTaiXiu/static/js/3.eb1b3180.chunk.js.map",
+    "index.html": "/GameTaiXiu/index.html",
+    "static/css/main.150d0b26.chunk.css.map": "/GameTaiXiu/static/css/main.150d0b26.chunk.css.map",
+    "static/js/2.0773cc39.chunk.js.LICENSE.txt": "/GameTaiXiu/static/js/2.0773cc39.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/GameTaiXiu/static/media/bgGame.e4960559.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.809afff7.js",
+    "static/js/2.0773cc39.chunk.js",
+    "static/css/main.150d0b26.chunk.css",
+    "static/js/main.40c6abca.chunk.js"
+  ]
+}
